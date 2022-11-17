@@ -1,6 +1,8 @@
 # Hacktoria-Writeups
 
-Writeups for [Hacktoria-ctf](https://hacktoria.com/). Its a cool platform to learn and play OSINT challenges and also because resqfoxtrot aint a damm librarian. (He refueses to put my writeup on the Hacktoria github so ill put them here :)
- 
+This repo contains writeups for [Hacktoria-ctf](https://hacktoria.com/) because resqfoxtrot#5910 aint a damm librarian.
+
+My resume: Research Analyst for Hacktoria.com since 7069wrk#6282 wanted to me add it 
+
 Also join the hacktoria Discord because its a nice community: https://discord.gg/MHYw9wQg :D
 
