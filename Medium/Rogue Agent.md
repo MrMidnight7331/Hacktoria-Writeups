@@ -1,4 +1,4 @@
-# # Rogue Agent (Easy)
+# # Rogue Agent (Medium)
 > MrMidnight
 
 -----------------------------------------
@@ -35,9 +35,9 @@ Download the Linkfile
 
 ## 2. Searching for the image
 
-I tried to find this image with yandex and google lense, but I couldnt manage to find any useful information. The infos in the briefing text also wasnt very helpful. Further attempts was to inspect the image via exiftool and trying to extract hidden files with stegseek. All of that without success. At the end I remembered a challange ive done ealier this day, which was hidden information written inside a image file.
+First I tried to reverse search this image with yandex and google lense, but I couldnt manage to find any useful articles or geolocations. The the briefing text also wasnt very helpful. Further attempts was to inspect the image via exiftool and trying to extract hidden files with stegseek. All of that without success. At the end I remembered a challange ive done ealier this day, which was hidden information written inside a image file.
 
-So I tried to read the "code" of the image via a text editor like vim and found a suspicious string of code that doesnt fit to the rest of the image (most of all because of coloring from neovim, since its not as "blue" as others).
+So I tried to read the "code" of the image with a text editor like vim and found a suspicious string of code that doesnt fit to the rest of the image (most of all because of coloring from neovim, since its not as "blue" as others).
 
 >æÊäÄÒÂZäÂÖÒÜÂÆZhh\djrljhZdb\`jnphf
 
