@@ -1,4 +1,4 @@
-# # Rogue Agent (Medium)
+# Rogue Agent (Medium)
 > MrMidnight
 
 -----------------------------------------
