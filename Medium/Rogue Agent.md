@@ -30,7 +30,7 @@ Password Example: spain-madrid-12.345678-12.345678
 ## 1. Download assets
 
 Download the original image
-Download the Linkfile
+Download the Cardfile
 
 
 ## 2. Searching for the image
@@ -50,7 +50,4 @@ With the hash in hand, we can use cyberchef to decode the hash: https://cyberche
 ## 4. Getting the flag
 
 Use this password to unzip the file and get the card
-```
-http://bit.ly/3ExX5aX
-s
 ```
