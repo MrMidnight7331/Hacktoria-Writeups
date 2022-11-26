@@ -97,7 +97,7 @@ Now I looked at every country on the list and tried to match the enviroment. Thi
 
 ## 3. Finding the position
 
-On the map, I set the wordmap to "Africa" and searched for every counties, until I found the place called "Wajir". I searched it in the map and clicked on the first result showed in the dropdown menu, which matches with the small towns and fewer trees. But it still aint the place we are suppost to find.
+On the map, I set the worldmap to "Africa" and searched for every counties, until I found the place called "Wajir". I entered it in the search function and clicked on the first result shown in the dropdown menu, which matches with the small towns and fewer trees. But it still aint the place we are suppost to find.
 
 By zooming out of the map, and went down a bit, we can find a mountain that looks like the bottom of a shoe or a peanut. There is a X looking road at the bottom of the mountain. When I zoomed on it, I found the house that has a blueish roof just like the image we are given.
 
