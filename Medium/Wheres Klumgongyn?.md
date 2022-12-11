@@ -1,4 +1,4 @@
-# Where’s Klumgongyn? (Medium)
+# Wheres Klumgongyn (Medium)
 > MrMidnight
 
 -----------------------------------------
