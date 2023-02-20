@@ -35,4 +35,4 @@ To get name the password however, we have to google for who gave this girl the h
 
 ## 3. Get the card
 Just search for the fullname of "Mahiro" and use it as the password: https://en.wikipedia.org/wiki/Onimai:_I%27m_Now_Your_Sister!
->Mihari Oyama
+>Mahiro Oyama
