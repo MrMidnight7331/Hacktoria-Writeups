@@ -1,0 +1,3 @@
+# Hacktoria original contract writeup
+
+This folder exsits for all the original contract after the easy-insane grading were removed...
